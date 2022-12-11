@@ -12,7 +12,7 @@
     "@types/express": "^4.0.34",
     "awesome-typescript-loader": "^5.2.1",
     "backpack-core": "^0.8.4",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "typescript": "^3.5.2"
   }
 }
